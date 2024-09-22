@@ -1,5 +1,5 @@
 # Hi there, I'm Hugo! 👋
-
+I'm an educator learning how to code. For now, I am mostly building Frontend Mentor projects.
 ## My Skills:
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
