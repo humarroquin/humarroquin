@@ -1,5 +1,4 @@
 # Hi there, I'm Hugo! 👋
-I'm an educator learning how to code.
 
 ## My Skills:
 
